@@ -1,0 +1,4 @@
+.vs
+*.user
+src/Fennel/Fennel/bin/
+src/Fennel/Fennel/obj/
