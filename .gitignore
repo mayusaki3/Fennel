@@ -1,4 +1,7 @@
 .vs
 *.user
-src/Fennel/Fennel/bin/
-src/Fennel/Fennel/obj/
+src/Fennel/bin/
+src/Fennel/obj/
+src/JaffaCore/obj/
+src/JaffaCore/bin/
+*.user
